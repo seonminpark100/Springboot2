@@ -1,9 +1,9 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.jdbc=10
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=10
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mybatis=10
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.oracle=10
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=11
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.jdbc=11
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=11
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mybatis=11
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.oracle=11
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=12
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=B08aTransactionManager-3
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.4.7-SNAPSHOT
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
