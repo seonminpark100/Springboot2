@@ -14,15 +14,19 @@ import org.springframework.security.web.SecurityFilterChain;
 
 import jakarta.servlet.DispatcherType;
 
+
+
 @Configuration
 public class WebSecurityConfig {
 	
 	@Bean
 	public SecurityFilterChain filterChain(HttpSecurity http) throws Exception{
-		http.csrf((csrf) -> csrf.disable()).cors((cors) -> cors.disable())
-		.authorizeHttpRequests((request) -> request.dispatcherTypeMatchers(DispatcherType.FORWARD).permitAll()
+		http.csrf((csrf) -> csrf.disable())
+			.cors((cors) -> cors.disable())
+			.authorizeHttpRequests((request) -> request
+				.dispatcherTypeMatchers(DispatcherType.FORWARD).permitAll()
 				.requestMatchers("/").permitAll()
-				.requestMatchers("/css/**,","/js/**","/images/**").permitAll()
+				.requestMatchers("/css/**","/js/**","/images/**").permitAll()
 				.requestMatchers("/guest/**").permitAll()
 				.requestMatchers("/member/**").hasAnyRole("USER","ADMIN")
 				.requestMatchers("/admin/**").hasRole("ADMIN")
@@ -36,7 +40,7 @@ public class WebSecurityConfig {
 	public UserDetailsService users() {
 		
 		UserDetails user = User.builder().username("user").password(passwordEncoder().encode("1234")).roles("USER").build();
-		UserDetails admin = User.builder().username("user").password(passwordEncoder().encode("1234")).roles("USER","ADMIN").build();
+		UserDetails admin = User.builder().username("admin").password(passwordEncoder().encode("1234")).roles("USER","ADMIN").build();
 		
 				return new InMemoryUserDetailsManager(user,admin);
 	}
