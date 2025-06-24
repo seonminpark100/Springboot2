@@ -3,12 +3,14 @@ C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\
 \B13WebSocket\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4083954457.index
 \B07dMybatisBoard\src\main\java
-C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2907767899.index
-\B07cMybatisLogback\src\main\java
-C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\698390309.index
-\B10aFileUpload\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1391546298.index
+\B03DI\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1943630760.index
+\B07bMybatisParameter\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\880946547.index
 \B12RestAPI\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1264529399.index
+\Ex42_Security_SocialLogin\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3606501397.index
 \B09aSecurity\src\main\java
 C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3489977235.index
@@ -25,6 +27,10 @@ C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\
 \B02FormSubmit\src\main\java
 C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3356453299.index
 \B06JdbcTemplateQuiz\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2598731285.index
+\B21bSpringDataJPA1\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1877391540.index
+\Ex42_Security_SocialLogin\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3690898564.index
 \B09cSecurityJDBC\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2833422356.index
@@ -35,18 +41,29 @@ C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\
 \B11WebJars\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1141685369.index
 \B08aTransactionManager\src\main\java
+<<<<<<< HEAD
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3632732492.index
+\B19WysiwygEditor\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\189312448.index
+\B09aSecurity\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3356453299.index
+\B06JdbcTemplateQuiz\src\main\java
+C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\183655086.index
+\B02FormSubmit\src\main\java
+=======
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\189312448.index
 \B09aSecurity\src\main\java
 C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\183655086.index
 \B02FormSubmit\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3356453299.index
 \B06JdbcTemplateQuiz\src\main\java
-C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3632732492.index
-\B19WysiwygEditor\src\main\java
+>>>>>>> parent of 4ecd57e (9일차)
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2480944052.index
 \B14bSMTP_Google\src\main\java
 C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1610049437.index
 \B02FormSubmit\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2662499319.index
+\Ex42_Security_SocialLogin\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3572745551.index
 \B15bSMTP_Google\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4261342048.index
@@ -59,12 +76,15 @@ C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\
 \B05ReadProperites\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3029052206.index
 \B11WebJars\src\main\java
+<<<<<<< HEAD
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\499278977.index
 \B19WysiwygEditor\src\main\java
-C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2594022631.index
-\B01BasicProjectLombok\src\main\java
+=======
+>>>>>>> parent of 4ecd57e (9일차)
 C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\369624575.index
 \B06JdbcTemplate\src\main\java
+C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2594022631.index
+\B01BasicProjectLombok\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1935634346.index
 \B00SpringBootProject\src\main\java
 C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2833422356.index
@@ -83,6 +103,8 @@ C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\
 \B16DynamicAddress\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\693868319.index
 \B18GeoLocations\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3352777242.index
+\Ex42_Security_SocialLogin\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3951847045.index
 \B10bFileUploadJDBC\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4035818386.index
@@ -101,8 +123,6 @@ C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\21997868
 \B02FormSubmit\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4002781388.index
 \B09aSecurity\src\main\java
-C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2263471321.index
-\B19WysiwygEditor\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3489977235.index
 \B02BasicProjectLombok\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2594022631.index
@@ -117,6 +137,8 @@ C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\18614033
 \B04Validator\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2022267884.index
 \B17ReactAndBoot\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3935836396.index
+\Ex42_Security_SocialLogin\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3389806113.index
 \B07dMybatisBoardQuiz\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\243008588.index
@@ -125,11 +147,9 @@ C:\Dev\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\12382256
 \B05ReadProperites\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\474152843.index
 \B17ReactAndBoot\src\main\java
-C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3694343351.index
-\B19WysiwygEditor\src\main\java
 C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1111602210.index
 \B08bTransactionTemplate\src\main\java
-C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1391546298.index
-\B03DI\src\main\java
-C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1943630760.index
-\B07bMybatisParameter\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2907767899.index
+\B07cMybatisLogback\src\main\java
+C:\Devdata1111\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\698390309.index
+\B10aFileUpload\src\main\java

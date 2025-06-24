@@ -92,6 +92,7 @@
 2025-06-20 07:15:30.241: [INFO] OnDoneLoading sync enabled: 0
 2025-06-20 07:16:19.992: [INFO] OnDoneLoading sync enabled: 0
 2025-06-20 07:16:47.291: [INFO] OnDoneLoading sync enabled: 0
+<<<<<<< HEAD
 2025-06-23 00:31:01.095: [INFO] OnDoneLoading sync enabled: 0
 2025-06-23 00:38:02.863: [INFO] OnDoneLoading sync enabled: 0
 2025-06-23 00:45:19.812: [INFO] OnDoneLoading sync enabled: 0
@@ -106,3 +107,12 @@
 2025-06-23 05:51:24.173: [INFO] OnDoneLoading sync enabled: 0
 2025-06-23 06:15:13.187: [INFO] OnDoneLoading sync enabled: 0
 2025-06-23 06:18:56.482: [INFO] OnDoneLoading sync enabled: 0
+2025-06-24 00:49:21.459: [INFO] OnDoneLoading sync enabled: 0
+2025-06-24 00:55:40.782: [INFO] OnDoneLoading sync enabled: 0
+2025-06-24 00:55:46.744: [INFO] OnDoneLoading sync enabled: 0
+2025-06-24 01:44:47.545: [INFO] OnDoneLoading sync enabled: 0
+2025-06-24 01:48:07.775: [INFO] OnDoneLoading sync enabled: 0
+2025-06-24 03:19:54.671: [INFO] OnDoneLoading sync enabled: 0
+=======
+>>>>>>> parent of 4ecd57e (9일차)
+2025-06-24 09:05:17.621: [INFO] OnDoneLoading sync enabled: 0
